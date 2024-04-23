@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/aip_cpp_sdk.dir/src/demo.cpp.o -o aip_cpp_sdk  /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libjsoncpp.so /usr/lib/x86_64-linux-gnu/libcurl.so 
